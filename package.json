@@ -1,0 +1,22 @@
+{
+  "name": "nature-tours-website",
+  "version": "1.0.0",
+  "description": "Landing page for Nature Tours website.",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvaldillez/nature-tours-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kvaldillez/nature-tours-website/issues"
+  },
+  "homepage": "https://github.com/kvaldillez/nature-tours-website#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
